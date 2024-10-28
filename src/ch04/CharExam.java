@@ -1,3 +1,5 @@
+package ch04;
+
 public class CharExam {
 
     public static void main(String[] args) {

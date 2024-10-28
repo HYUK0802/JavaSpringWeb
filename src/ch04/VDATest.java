@@ -1,3 +1,5 @@
+package ch04;
+
 public class VDATest {
     public static void main(String[] args) {
         int v; // 변수선언 -> 기억공간

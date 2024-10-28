@@ -1,3 +1,5 @@
+package ch04;
+
 public class CharTest {
     public static void main(String[] args) {
         char c = 'A';
