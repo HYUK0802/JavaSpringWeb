@@ -29,7 +29,7 @@ public class IfElseTest {
         // 윤년
         int year = sc.nextInt();
         System.out.println("년도를 입력하세요");
-        if((num%4==0 && num%100==0) || num%400==0){
+        if((num%4==0 && num%100!=0) || num%400==0){
             System.out.println(year + "년도는 윤년입니다.");
         }else {
             System.out.println("윤년이 아닙니다.");
