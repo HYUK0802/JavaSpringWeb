@@ -1,7 +1,7 @@
 package part3.ch02;
 
-import part3.model.CarDTO;
-import part3.model.CarUtility;
+import model.CarDTO;
+import model.CarUtility;
 
 
 public class CarUtilityTest {

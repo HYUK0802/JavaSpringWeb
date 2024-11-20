@@ -1,6 +1,6 @@
 package part3.ch02;
 
-import part3.model.CarDTO;
+import model.CarDTO;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 package part3.ch05;
 
-import part3.model.StudentVO;
+import model.StudentVO;
 
 public class StudentArrayTest {
     public static void main(String[] args) {

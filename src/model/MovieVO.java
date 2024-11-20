@@ -1,4 +1,4 @@
-package part3.model;
+package model;
 
 public class MovieVO {
     private String title;

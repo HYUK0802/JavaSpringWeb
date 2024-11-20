@@ -1,6 +1,6 @@
 package part3.ch04;
 
-import part3.model.MovieVO;
+import model.MovieVO;
 
 public class BestVOModeling {
     public static void main(String[] args) {

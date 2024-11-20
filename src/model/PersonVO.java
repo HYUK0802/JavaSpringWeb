@@ -1,6 +1,4 @@
-package part3.model;
-
-import part3.ch01.Person;
+package model;
 
 public class PersonVO {
     private String name;

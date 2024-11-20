@@ -1,6 +1,6 @@
 package part3.ch06;
 
-import part3.model.StudentVO;
+import model.StudentVO;
 
 public class ClassObjectInstance {
     public static void main(String[] args) {

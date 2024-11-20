@@ -1,6 +1,6 @@
 package part3.ch04;
 
-import part3.model.PersonVO;
+import model.PersonVO;
 
 public class ConstructorInit {
     public static void main(String[] args) {
